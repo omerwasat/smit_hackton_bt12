@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+    max-width: 90%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+header{
+    display: flex;
+    justify-content:space-between;
+    margin: 0 auto;
+    width: 100vh;
+    
+
+}
+.logo-first-sec{
+    font-size: 40px;
+    font-weight: 200;
+    
+}
+.logo-wait{
+    font-weight: 200;
+}
+
+.logo-sec-sec{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    
+}
+.gray{
+    color: rgb(61, 59, 59);
+}
+.button-text{
+    padding: 1rem;
+   border: solid black 1px;
+   border-radius: 10px;
+}
+.head-nav{
+    margin-top: 30px;
+    text-align: center;
+}
+section{
+    margin: 80px;
+}
+.section-setting{
+    display: flex;
+    margin: 0 auto;
+    width: 100vh;
+}
+.heading-content{
+    margin-bottom: 40px;
+    font-size:65px;
+    margin-left: ;
+}
+.para-content{
+    margin-bottom: 40px;
+   
+}
+.button-content{
+    margin-bottom: 40px;
+    background: #000;
+    color: azure;
+    padding: 1rem;
+    width: 10px 2px;
+    border-radius: 10px;
+}
+.gap-between{
+    margin-right: 90px;
+}
+.section-3{
+    display: flex;
+    width: 100vh;
+    margin: 0 auto;
+    
+    
+}
+.img-setting{
+    display: flex;
+    gap: 39px;
+    overflow: hidden ;
+    color: #000;
+    height: 30px;
+
+}
+.section-4{
+    display: flex;
+    width: 100vh;
+    margin: 0 auto;
+}
+.section-4-1{
+    margin-top: 100px;
+}
+.service-section{
+    font-size: x-large;
+    background: #B9FF66;
+}
+.para-section1{
+    margin-left: 100px;
+}
